@@ -1,3 +1,3 @@
-# stating-react 
+# starting-react 
 renamed and restarted
 StartingReact
